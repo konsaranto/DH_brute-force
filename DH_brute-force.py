@@ -1,6 +1,8 @@
 #!/usr/bin/python3
 
 '''
+***This script was created for educational purposes. Stay away from illegal activities.***
+
 Copyright © 2018 Konstantinos Sarantopoulos
 
 Permission is hereby granted, free of charge, to any person obtaining a copy

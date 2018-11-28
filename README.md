@@ -2,6 +2,8 @@
 
 A python3 script to perform Diffie-Hellman brute-force attack.
 
+**This script was created for educational purposes. Stay away from illegal activities.**
+
 ## Usage
 
 ```
